@@ -9,7 +9,7 @@ Resolve issue of imbalance between image classes,2020-10-12,2020-10-30
 Integrate with Tier-1 metrics computation framework,2020-10-30,2020-11-30
 Implement single-task learner,2020-10-30,2020-11-13
 Train single-task learner,2020-11-13,2020-11-30
-Integrate incremental classifier of Brown (iCaRL),2020-11-16,2020-12-21
+Integrate incremental classifier of Brown,2020-11-16,2020-12-21
 Integrate meta-optimizer of USC,2020-12-21,2021-01-31
 Integrate Task Distribution Modeling (UMass),2021-02-01,2021-05-31
 Integrate new perception modules (novel research),2021-05-10,2021-07-31
