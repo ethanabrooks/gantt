@@ -1,0 +1,18 @@
+Reinforcement Learning,,
+Task,Start Date,End Date
+Finalize algorithm choice/environment specification,2020-07-01,2020-07-07
+Developed Scavenger Hunt environment based on Habitat API.,2020-07-07,2020-08-15
+Integrated with Tier 1 metrics computation framework.,2020-08-12,2020-09-22
+Trained baseline agent using Actor Critic (without lifelong-learning algorithms),2020-08-15,2020-08-31
+Developed system for training with nonstationary task syllabus.,2020-09-01,2020-09-30
+Trained Single-Task Expert Agent.,2020-09-23,2020-09-30
+Continue optimizing Habitat Environment (parallelize learning),2020-10-07,2020-10-21
+Apply intrinsic reward module to Habitat environment,2020-10-07,2020-11-30
+Apply curriculum learning module to Habitat environment,2020-10-07,2020-11-30
+Finalize skills learning concept,2020-10-07,2020-10-14
+Apply curriculum learning module to Habitat environment,2020-10-14,2020-11-30
+Integrate modules into unified system,2020-12-01,2021-01-31
+Develop additional intrinsic motivation modules,2021-02-01,2021-03-31
+Develop additional curriculum learning modules,2021-02-01,2021-03-31
+Develop additional RL modules,2021-02-01,2021-04-30
+Integrate additional modules into unified system,2021-07-01,2021-07-31

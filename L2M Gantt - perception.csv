@@ -1,0 +1,15 @@
+Perception,,
+Task,Start Date,End Date
+Developed training data generation module,2020-07-01,2020-07-27
+Designed interface of perception modules for integration between universities,2020-07-28,2020-08-31
+Developed system for lifelong learning of perception modules,2020-09-01,2020-09-30
+Implemented and trained lifelong classifier of Penn (DF-CNN),2020-09-01,2020-09-30
+Continue upgrading system for perception modules,2020-10-12,2020-11-30
+Resolve issue of imbalance between image classes,2020-10-12,2020-10-30
+Integrate with Tier-1 metrics computation framework,2020-10-30,2020-11-30
+Implement single-task learner,2020-10-30,2020-11-13
+Train single-task learner,2020-11-13,2020-11-30
+Integrate incremental classifier of Brown (iCaRL),2020-11-16,2020-12-21
+Integrate meta-optimizer of USC,2020-12-21,2021-01-31
+Integrate Task Distribution Modeling (UMass),2021-02-01,2021-05-31
+Integrate new perception modules (novel research),2021-05-10,2021-07-31

@@ -1,0 +1,18 @@
+Controller/Metrics,,
+Task,Start Date,End Date
+Developed Scavenger Hunt environment based on Habitat API.,2020-07-01,2020-08-31
+Developed metrics computation engine.,2020-09-01,2020-09-30
+Developed standard logging schema.,2020-09-01,2020-09-30
+Initial full loop integration of metrics computation.,2020-09-01,2020-09-30
+Finish documenting logging schema - based on coordination with APL.,2020-09-01,2020-10-31
+Finish full metrics integration - based on coordination with metrics working group.,2020-09-01,2020-11-30
+Complete integration of working memory system.,2020-10-01,2020-12-31
+Complete initial implementation of dynamic curriculum,2020-11-01,2021-01-31
+Complete initial implementation of map module in working memory,2020-11-01,2021-01-31
+Integrate with scenarios selected by Scenarios and Metrics working groups,2021-01-01,2021-02-28
+Productionized implementation for dynamic curriculum/working memory,2021-01-31,2021-04-30
+Complete initial implementation of Search Module,2021-02-28,2021-04-30
+Code freeze for DARPA 12 month eval ,2021-04-30,2021-05-31
+Productionized implementation for Search Module,2021-05-31,2021-06-30
+Support integration of modules + final testing and eval of system,2021-05-31,2021-07-31
+Code freeze for DARPA 15 month eval,2021-07-31,2021-10-31
